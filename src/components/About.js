@@ -10,8 +10,8 @@ function About(){
                 You are able to click on the link to open up the Wikipedia page for each TV Series. 
             </p>
 
-            <h1 className="series">Favorited Characters</h1>
-            <p className="text"> The Favorites page is a call to the database and it fetches all the user-favorited characters 
+            <h1 className="series">Favorite Characters</h1>
+            <p className="text"> The Favorite Characters page is a call to the database and it fetches all the user-favorited characters 
                 from both TV shows and displays them. The user has the ability to un-favorite a character and 
                 that will remove the character from the database.
             </p>

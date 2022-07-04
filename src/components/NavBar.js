@@ -17,7 +17,7 @@ function NavBar() {
     return (
         <nav className="navbar">
             <NavLink to="/" style={styles}> Main </NavLink>
-            <NavLink to="/character" style={styles}>Favorited Characters</NavLink>
+            <NavLink to="/character" style={styles}>Favorite Characters</NavLink>
             <NavLink to="/search" style={styles}>Search Characters</NavLink>
             <NavLink to="/about" style={styles}>About</NavLink>
         </nav>

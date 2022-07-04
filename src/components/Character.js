@@ -25,7 +25,7 @@ function Character() {
         const character = data.map((char) => (char));
         setCharacters(character);
       });
-  }, []);
+  }, [setCharacters]);
 
   /**
    * Deletes a favorited character from the database
